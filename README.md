@@ -16,7 +16,7 @@ A sleek, responsive web application for converting between metric and imperial u
 
 ## 🚀 Live Demo
 
-[View Live Project](unit-conversion-oc.netlify.app) <!-- Replace with your actual demo link -->
+[View Live Project](https://unit-conversion-oc.netlify.app/) <!-- Replace with your actual demo link -->
 
 ## 📸 Screenshots
 
@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [@illonaaddae](https://github.com/illonaaddae)
 - LinkedIn: [@illonaaddae](https://www.linkedin.com/in/illonaaddae/)
-- Portfolio: [@illonaaddae]([your-portfolio-url](https://oceaniccodes.netlify.app/))
+- Portfolio: [@illonaaddae](<[your-portfolio-url](https://oceaniccodes.netlify.app/)>)
 
 ## 🙏 Acknowledgments
 
