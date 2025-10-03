@@ -16,7 +16,7 @@ A sleek, responsive web application for converting between metric and imperial u
 
 ## 🚀 Live Demo
 
-[View Live Project](your-live-demo-link-here) <!-- Replace with your actual demo link -->
+[View Live Project](unit-conversion-oc.netlify.app) <!-- Replace with your actual demo link -->
 
 ## 📸 Screenshots
 
@@ -51,7 +51,7 @@ Results are displayed with 3 decimal places for accuracy.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/unit-converter.git
+   git clone https://github.com/illonaaddae/Unit-Conversion.git
    cd unit-converter
    ```
 
